@@ -32,6 +32,7 @@
 ##Day 8 ended.At least 2 hours of code
 ### Day 9: December 5, 2017
 ##another day of code, nothing special
-
+### Day 10: December 6, 2017
+#few more excercises
 
 
