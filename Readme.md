@@ -23,8 +23,15 @@
 
 ### Day 6: December 2, 2017
 #Another few hours of thinkful reading and debugging of PHP code. Had some help from my colleague, I think tomorrow this Flag will be mine.
+
 ### Day 7: December 3, 2017
 ##Nearly two hours of Python excercises
+
 ### Day 8: December 4, 2017
 ##No more friggin forked repos
 ##Day 8 ended.At least 2 hours of code
+### Day 9: December 5, 2017
+##another day of code, nothing special
+
+
+
