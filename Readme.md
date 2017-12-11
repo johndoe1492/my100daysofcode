@@ -30,14 +30,25 @@
 ### Day 8: December 4, 2017
 ##No more friggin forked repos
 ##Day 8 ended.At least 2 hours of code
+
 ### Day 9: December 5, 2017
+
 ##another day of code, nothing special
+
 ### Day 10: December 6, 2017
 #few more excercises
+
 #Day 11: December 7, 2017
 #first simpple task 
+
 ##Day 12: December 8, 2017
 #more excercises
+
 ##Day 13: December 9, 2017
 #and some more
 
+##Day 14: December 10, 2017
+# alas, not very productive day
+
+##Day 15: December 11, 2017
+#completed half of codecademy course
