@@ -52,3 +52,19 @@
 
 ##Day 15: December 11, 2017
 #completed half of codecademy course
+
+##Day 16: December 12, 2017
+#more excercises
+
+##Day 17: December 13, 2017
+#more excercises
+
+##Day 18: December 14, 2017
+#more excercises
+
+##Day 19: December 15, 2017
+#more excercises
+
+##Day 20: December 16, 2017
+#http://www.practicepython.org/
+#2 first excercises
