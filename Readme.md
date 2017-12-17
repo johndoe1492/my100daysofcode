@@ -67,4 +67,8 @@
 
 ##Day 20: December 16, 2017
 #http://www.practicepython.org/
-#2 first excercises
+#3 first excercises and plenty of CTF
+
+##Day 21: December 17, 2017
+#
+
