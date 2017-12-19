@@ -70,5 +70,5 @@
 #3 first excercises and plenty of CTF
 
 ##Day 21: December 17, 2017
-#
+#productive day
 
