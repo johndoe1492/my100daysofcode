@@ -72,3 +72,10 @@
 ##Day 21: December 17, 2017
 #productive day
 
+##Day 22: December 18, 2017
+
+##Day 23: December 19, 2017
+
+##Day 24: December 20, 2017
+
+##Day 25: December 21, 2017
