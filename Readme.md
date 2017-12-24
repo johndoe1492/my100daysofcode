@@ -80,4 +80,9 @@
 
 ##Day 25: December 21, 2017
 
-##Day 25: December 22, 2017
+##Day 26: December 22, 2017
+
+##Day 27: December 23, 2017
+
+##Day 28: December 24, 2017
+##lots and lots of one-line code in newboston course
