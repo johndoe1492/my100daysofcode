@@ -86,3 +86,6 @@
 
 ##Day 28: December 24, 2017
 ##lots and lots of one-line code in newboston course
+
+##Day 29: December 25, 2017
+##just palindrome test. So much easier than in JS
