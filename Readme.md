@@ -89,3 +89,8 @@
 
 ##Day 29: December 25, 2017
 ##just palindrome test. So much easier than in JS
+
+##Day 30: December 26, 2017
+
+##Day 31: December 27, 2017
+
