@@ -102,3 +102,10 @@
 
 ##Day 35: December 31, 2017
 
+##Day 36: January 1, 2018
+
+##Day 37: January 2, 2018
+
+##Day 38: January 3, 2018
+
+
