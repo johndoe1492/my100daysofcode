@@ -108,4 +108,13 @@
 
 ##Day 38: January 3, 2018
 
+##Day 39: January 4, 2018
+
+##Day 40: January 5, 2018
+
+##Day 41: January 6, 2018
+
+##Day 42: January 7, 2018
+
+##Day 43: January 8, 2018
 
