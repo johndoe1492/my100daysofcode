@@ -6,24 +6,21 @@ For example: anti_vowel("Hey You!") should return
 
 def anti_vowel(text):
     text = raw_input("Enter text here ")
-    vowels = ("A", "E", "I", "O", "U", "a", "e", "i", "o", "u")
+    vowels = ["A", "E", "I", "O", "U", "a", "e", "i", "o", "u"]
     de_voweled = ""
     for a in text:
         if a in vowels:
-            
+            de_voweled.append(a)#find a way to add to list
 
 anti_vowel("big")
 
-
-
-
-n = ["Michael", "Lieberman"]
-
-def join_strings(words):
-  result = ""
-  for n in words:
-    result.append(n)
-    return result
-
-
-print join_strings(n)
+def anti_vowel(text):
+    t=""
+    for c in text:
+        for i in "ieaouIEAOU":
+            if c==i:
+                c=""
+            else:
+                c=c
+        t=t+c
+    return t
